@@ -18,12 +18,12 @@ O objetivo deste projeto é transformar a gestão de arquivos XML complexos em u
 🖱️ Navegação Fluida: Tabela com rolagem horizontal e vertical sincronizada para lidar com grandes volumes de dados.
 
 ## 🛠️ Tecnologias Utilizadas
-Python: Linguagem base do projeto.
+- Python: Linguagem base do projeto.
 
-CustomTkinter: Interface gráfica moderna (UI/UX).
+- CustomTkinter: Interface gráfica moderna (UI/UX).
 
-Pandas: Processamento de dados e exportação para Excel.
+- Pandas: Processamento de dados e exportação para Excel.
 
-ReportLab: Geração de documentos PDF profissionais.
+- ReportLab: Geração de documentos PDF profissionais.
 
-ElementTree (XML): Parsing eficiente da estrutura de arquivos fiscais brasileiros.
+- ElementTree (XML): Parsing eficiente da estrutura de arquivos fiscais brasileiros.
