@@ -1,10 +1,10 @@
-#📊 XML-Reader
+# 📊 XML-Reader
  
 O XML-Reader  é uma ferramenta desktop moderna e intuitiva desenvolvida em Python para a leitura, visualização e exportação de dados de arquivos NFe (Nota Fiscal Eletrônica), MDFe (Manifesto Eletrônico de Documentos Fiscais) e CTe (Conhecimento de Transporte Eletrônico).
 
 O objetivo deste projeto é transformar a gestão de arquivos XML complexos em um dashboard organizado, permitindo a exportação rápida para formatos de relatório amplamente utilizados (Excel e PDF).
 
-##✨ Funcionalidades
+## ✨ Funcionalidades
 🔍 Leitura Inteligente: Suporte nativo para arquivos XML de NFe, MDFe e CTe.
 
 📈 Dashboard em Tempo Real: Visualização dinâmica do valor total acumulado e contagem de documentos importados.
@@ -17,7 +17,7 @@ O objetivo deste projeto é transformar a gestão de arquivos XML complexos em u
 
 🖱️ Navegação Fluida: Tabela com rolagem horizontal e vertical sincronizada para lidar com grandes volumes de dados.
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Python: Linguagem base do projeto.
 
 CustomTkinter: Interface gráfica moderna (UI/UX).
